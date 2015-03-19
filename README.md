@@ -8,7 +8,7 @@ A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal.
 
 #### Darkmatter
 
-Default flavor based on Base16 Ocean Dark color scheme.
+Based on [TronLight Theme](http://colorsublime.com/theme/TronLight) and [Space Gray Theme](https://github.com/kkga/spacegray).
 
 ![image](Screenshots/darkmatter.png)
 
