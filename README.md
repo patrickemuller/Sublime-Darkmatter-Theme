@@ -12,8 +12,6 @@ Default flavor based on Base16 Ocean Dark color scheme.
 
 ![image](Screenshots/darkmatter.png)
 
-*The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe/Source-Code-Pro).*
-
 ***
 
 ### How to Install
