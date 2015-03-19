@@ -1,6 +1,6 @@
 # Darkmatter
 
-A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying [Base16](https://github.com/chriskempson/base16) color schemes.
+A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal.
 
 ***
 
@@ -10,7 +10,7 @@ A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal.
 
 Default flavor based on Base16 Ocean Dark color scheme.
 
-![image](Screenshots/spacegray.png)
+![image](Screenshots/darkmatter.png)
 
 *The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe/Source-Code-Pro).*
 
@@ -20,17 +20,19 @@ Default flavor based on Base16 Ocean Dark color scheme.
 
 #### Via Package Control
 
-The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Darkmatter is listed as `Theme - Darkmatter`.
+Coming soon!
+
+<!-- The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Darkmatter is listed as `Theme - Darkmatter`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `Theme - Darkmatter` and hit <kbd>Enter</kbd>
+3. Find `Theme - Darkmatter` and hit <kbd>Enter</kbd> -->
 
 #### Manual
 
 You can also install the theme manually:
 
-1. [Download the .zip](https://github.com/kkga/spacegray/archive/master.zip)
+1. [Download the .zip](https://github.com/mpatrick/Sublime-Dark-Matter-Theme/archive/master.zip)
 2. Unzip and rename the folder to `Theme - Darkmatter`
 3. Copy the folder into `Packages` directory, which you can find using the menu item `Sublime Text -> Preferences -> Browse Packages...`
 
@@ -62,16 +64,16 @@ You can choose whichever flavor you like, but don't forget to change *both* colo
 Copy and paste one of four options in your user preferences file:
 
 ```json
-  "spacegray_tabs_font_small": true
+  "darkmatter_tabs_font_small": true
 ```
 ```json
-  "spacegray_tabs_font_normal": true
+  "darkmatter_tabs_font_normal": true
 ```
 ```json
-  "spacegray_tabs_font_large": true
+  "darkmatter_tabs_font_large": true
 ```
 ```json
-  "spacegray_tabs_font_xlarge": true
+  "darkmatter_tabs_font_xlarge": true
 ```
 
 #### Tabs size
@@ -79,59 +81,63 @@ Copy and paste one of four options in your user preferences file:
 Tabs height:
 
 ```json
-  "spacegray_tabs_small": true
+  "darkmatter_tabs_small": true
 ```
 ```json
-  "spacegray_tabs_normal": true
+  "darkmatter_tabs_normal": true
 ```
 ```json
-  "spacegray_tabs_large": true
+  "darkmatter_tabs_large": true
 ```
 ```json
-  "spacegray_tabs_xlarge": true
+  "darkmatter_tabs_xlarge": true
 ```
 
 Tabs width:
 
 ```json
-  "spacegray_tabs_auto_width": true
+  "darkmatter_tabs_auto_width": true
 ```
 
 #### Sidebar labels font size
 
 ```json
-  "spacegray_sidebar_font_small": true
+  "darkmatter_sidebar_font_small": true
 ```
 ```json
-  "spacegray_sidebar_font_normal": true
+  "darkmatter_sidebar_font_normal": true
 ```
 ```json
-  "spacegray_sidebar_font_large": true
+  "darkmatter_sidebar_font_large": true
 ```
 ```json
-  "spacegray_sidebar_font_xlarge": true
+  "darkmatter_sidebar_font_xlarge": true
 ```
 
 #### Sidebar tree rows height
 
 ```json
-  "spacegray_sidebar_tree_xsmall": true
+  "darkmatter_sidebar_tree_xsmall": true
 ```
 ```json
-  "spacegray_sidebar_tree_small": true
+  "darkmatter_sidebar_tree_small": true
 ```
 ```json
-  "spacegray_sidebar_tree_normal": true
+  "darkmatter_sidebar_tree_normal": true
 ```
 ```json
-  "spacegray_sidebar_tree_large": true
+  "darkmatter_sidebar_tree_large": true
 ```
 ```json
-  "spacegray_sidebar_tree_xlarge": true
+  "darkmatter_sidebar_tree_xlarge": true
 ```
 
 ***
 
 ### Thanks
 
-The Darkmatter Eighties variation is contributed by [Yoshua Wuyts](https://github.com/yoshuawuyts).
+The Darkmatter is contributed by [Patrick Müller](https://github.com/mpatrick).
+
+### Special Thanks to
+
+Creator of [TronLight Theme](http://colorsublime.com/theme/TronLight) that's unknown and to [Gadzhi Kharkharov](https://github.com/kkga) for create [Space Gray Theme](https://github.com/kkga/spacegray) that I used to start this new theme/color-scheme.
