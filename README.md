@@ -18,13 +18,11 @@ Based on [TronLight Theme](http://colorsublime.com/theme/TronLight) and [Space G
 
 #### Via Package Control
 
-Coming soon!
-
-<!-- The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Darkmatter is listed as `Theme - Darkmatter`.
+The easiest way to install is using [Sublime Package Control](https://sublime.wbond.net), where Darkmatter is listed as `Theme - Darkmatter`.
 
 1. Open Command Palette using menu item `Tools -> Command Palette...` (<kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> on Mac)
 2. Choose `Package Control: Install Package`
-3. Find `Theme - Darkmatter` and hit <kbd>Enter</kbd> -->
+3. Find `Theme - Darkmatter` and hit <kbd>Enter</kbd>
 
 #### Manual
 
