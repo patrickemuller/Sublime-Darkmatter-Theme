@@ -130,10 +130,6 @@ Tabs width:
 
 ***
 
-### Thanks
-
-The Darkmatter is contributed by [Patrick Müller](https://github.com/mpatrick).
-
 ### Special Thanks to
 
 Creator of [TronLight Theme](http://colorsublime.com/theme/TronLight) that's unknown and to [Gadzhi Kharkharov](https://github.com/kkga) for create [Space Gray Theme](https://github.com/kkga/spacegray) that I used to start this new theme/color-scheme.
