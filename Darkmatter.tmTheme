@@ -382,8 +382,99 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<string>#E6DB74</string>
 			</dict>
 		</dict>
-	</array>
-	<key>uuid</key>
-	<string>6BC5629A-D5D9-4337-9674-6355EB039ADB</string>
+		
+    <!-- 
+      MarkdownMod
+    -->
+    <dict>
+      <key>scope</key>
+      <string>punctuation.definition.heading.markdown, markup.heading.1.markdown, markup.heading.2.markdown, markup.heading.markdown</string>
+      <key>settings</key>
+      <dict>
+        <key>fontStyle</key>
+        <string>underline</string>
+        <key>foreground</key>
+        <string>#ffffff</string>
+      </dict>
+    </dict>
+    <dict>
+        <key>name</key>
+        <string>Block code</string>
+        <key>scope</key>
+        <string>markup.raw.block.markdown, markup.raw.block.fenced.markdown, markup.raw.inline.content.markdown, punctuation.definition.raw.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#4cbbff</string>
+        </dict>
+    </dict>
+    <dict>
+        <key>scope</key>
+        <string>markup.italic.markdown, markup.bold.markdown, markup.bold_italic.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#95CC5E</string>
+        </dict>
+    </dict> 
+    <dict>
+        <key>scope</key>
+        <string>markup.italic.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string>italic</string>          
+        </dict>
+    </dict>     
+    <dict>
+        <key>scope</key>
+        <string>markup.bold.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string>bold</string>          
+        </dict>
+    </dict>   
+    <dict>
+        <key>scope</key>
+        <string>markup.bold_italic.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>fontStyle</key>
+          <string>bold italic</string>          
+        </dict>
+    </dict> 
+    <dict>
+        <key>scope</key>
+        <string>punctuation.definition.metadata, markup.underline.link, punctuation.definition.string.begin, punctuation.definition.string.end</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#516a88</string>          
+        </dict>
+    </dict>     
+
+    <dict>
+        <key>scope</key>
+        <string>string.other.link.title.markdown, string.other.link.description.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#aec2e0</string>          
+        </dict>
+    </dict> 
+    <dict>
+        <key>scope</key>
+        <string>markup.quote.markdown</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#d0dfe6</string>          
+        </dict>
+    </dict>     
+
+  </array>
+  <key>uuid</key>
+  <string>6BC5629A-D5D9-4337-9674-6355EB039ADB</string>
 </dict>
 </plist>
