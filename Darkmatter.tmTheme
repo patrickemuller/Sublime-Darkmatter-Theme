@@ -59,13 +59,15 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<dict>
 				<key>foreground</key>
 				<string>#516a88</string>
+				<key>fontStyle</key>
+				<string>italic</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>String</string>
 			<key>scope</key>
-			<string>string</string>
+			<string>string, punctuation.definition.string.begin, punctuation.definition.string.end</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -319,7 +321,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CFCFC2</string>
+				<string>#6ee2ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -446,6 +448,8 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
           <string>bold italic</string>          
         </dict>
     </dict> 
+    
+  <!--
     <dict>
         <key>scope</key>
         <string>punctuation.definition.metadata, markup.underline.link, punctuation.definition.string.begin, punctuation.definition.string.end</string>
@@ -455,6 +459,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
           <string>#516a88</string>          
         </dict>
     </dict>     
+  -->
 
     <dict>
         <key>scope</key>
@@ -473,7 +478,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
           <key>foreground</key>
           <string>#d0dfe6</string>          
         </dict>
-    </dict>     
+    </dict>    
 
   </array>
   <key>uuid</key>
