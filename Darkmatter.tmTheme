@@ -203,6 +203,8 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 				<string></string>
 				<key>foreground</key>
 				<string>#effbff</string>
+				<key>background</key>
+				<string>#1b3763</string>
 			</dict>
 		</dict>
 		<dict>
