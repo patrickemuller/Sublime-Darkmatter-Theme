@@ -14,6 +14,12 @@ Based on [TronLight Theme](http://colorsublime.com/theme/TronLight) and [Space G
 
 ***
 
+## Used Hex References
+
+background: #14191f
+
+***
+
 ## How to Install
 
 Haven't put this one on Package Control yet (as I don't know how), so your best bet will be to install it manually.
