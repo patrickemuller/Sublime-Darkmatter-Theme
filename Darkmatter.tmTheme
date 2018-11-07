@@ -142,6 +142,17 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>CSS Important</string>
+			<key>scope</key>
+			<string>keyword.other.important.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#6ee2ff</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Storage</string>
 			<key>scope</key>
 			<string>storage</string>
