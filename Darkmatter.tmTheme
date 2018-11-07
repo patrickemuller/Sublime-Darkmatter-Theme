@@ -19,7 +19,7 @@ Released under the MIT License <http://opensource.org/licenses/MIT>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#14191f</string>
+				<string>#131f2d</string>
 				<key>caret</key>
 				<string>#F8F8F0</string>
 				<key>foreground</key>
